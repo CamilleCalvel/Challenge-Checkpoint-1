@@ -9,7 +9,7 @@ La couche 3 correpond à la couche réseau. Cette couche comporte les routeurs. 
 8.Equivalence PowerShell des commandes bash suivante:  
 **`cd`**: **`Set-Location`**  
 **`cp`**: **`Copy-Item`**  
-**`mkdir`**: ***`New-Item`**  
+**`mkdir`**: **`New-Item`**  
 **`ls`**: **`Get-ChildItem`**  
 9. Je ne sais pas.
-10. Les classes IP sont remplacées par le CIDR car le systeme de classe est peu de flexibile comparé au CIDR. Et il présente plusieurs problèmes comme le manque de place dans la classe B avec une plage d'adresses IP jugée trop grande et pour les classes A la plage d'adresses IP est jugée trop petite.
+10. Les classes IP sont remplacées par le CIDR car le systeme de classe est peu flexibile comparé au CIDR. Et il présente plusieurs problèmes comme le nombre restreint de place dans la classe B avec une plage d'adresses IP jugée trop grande et pour les classes A, la plage d'adresses IP est jugée trop petite.
