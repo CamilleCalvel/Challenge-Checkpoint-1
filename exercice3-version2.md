@@ -4,7 +4,7 @@
 
 3. Pour que les fichiers pdf d'un dépôt local git ne soient pas pris en compte lors d'un git push, on peut créer un fichier .gitignore et éditer le fichier .gitignore en ajoutant *.pdf
 
-4. Les commandes git utiliser pour fusionner les branches main et test_valide sont **`git checkout main`** pour aller sur la branche principale suivi de **`git merge test_valide`** pour fusionner avec la branche test-valide à la branche main
+4. Les commandes git utiliser pour fusionner les branches main et test_valide sont **`git checkout main`** pour aller sur la branche principale suivi de **`git merge test_valide`** pour fusionner la branche test-valide à la branche main
 
 5. La ligne de commande bash pour afficher le texte de cette question:    
 **`echo -e 'Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :\n- "Bonjour est-ce que ce clavier fonctionne bien ?"\n- "Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\\\ !"\n- "Même des tildes ~ ?"\n- "Evidemment !"'`**  
